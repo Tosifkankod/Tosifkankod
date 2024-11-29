@@ -1,6 +1,6 @@
 <img src="https://res.cloudinary.com/djahrqrul/image/upload/v1732857670/pixelcut-export_o2xpgn.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Tosif, a Indian Softare Developer 👋🏼:
+# Hello World!, I'm Tosif, a Indian Software Developer 👋🏼:
 <br>👨🏼‍🎓 studying master's of computer application at Bharati Vidyapeeth University<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 passionate software developer can adopt any technology 
 
 
